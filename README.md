@@ -1,1 +1,2 @@
 # Data-Science
+Data science is an interdisciplinary field that combines statistics, machine learning, and domain expertise to extract insights from data. It involves data collection, cleaning, analysis, visualization, and predictive modeling to support decision-making. Common applications include recommendation systems, fraud detection, and healthcare analytics. Python, R, and SQL are widely used tools in the field.
